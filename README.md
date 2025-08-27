@@ -40,7 +40,3 @@ Com o alto nível de endividamento no Brasil e a complexidade das finanças pess
 - Focado em você: A privacidade é uma prioridade, garantindo que seus dados não sejam vendidos.
 
 O Minhaeiro é a sua ferramenta para uma vida financeira mais organizada e próspera.
-
-Focado em você: A privacidade é uma prioridade, garantindo que seus dados não sejam vendidos.
-
-O Minhaeiro é a sua ferramenta para uma vida financeira mais organizada e próspera.
