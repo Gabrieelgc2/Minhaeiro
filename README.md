@@ -14,6 +14,7 @@ O Minhaeiro oferece um conjunto de funcionalidades essenciais para a sua gestão
 - CRUD Completo: Crie, visualize, atualize e exclua seus dados financeiros (receitas, despesas) a qualquer momento.
 
 - Gerenciamento de Usuários: Crie e exclua usuários, tornando o aplicativo ideal para uso em diferentes dispositivos ou para gerenciar múltiplas contas.
+<hr>
 
 ### Público-alvo
 O Minhaeiro foi criado para **adultos jovens com renda moderada e familiaridade básica com tecnologia.** Se você busca uma ferramenta prática e acessível para organizar seu orçamento, economizar para o futuro ou sair do endividamento, o Minhaeiro é para você.
