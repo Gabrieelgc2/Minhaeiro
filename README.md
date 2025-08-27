@@ -38,5 +38,3 @@ Com o alto nível de endividamento no Brasil e a complexidade das finanças pess
 - Simples e intuitivo: Sua interface foi pensada para ser fácil de usar, mesmo por quem não tem experiência com aplicativos financeiros.
 
 - Focado em você: A privacidade é uma prioridade, garantindo que seus dados não sejam vendidos.
-
-O Minhaeiro é a sua ferramenta para uma vida financeira mais organizada e próspera.
