@@ -1,7 +1,7 @@
 ### Minhaeiro: Personal Finance Manager
 Minhaeiro is a personal expense management application, developed to help young adults control their finances in a simple and intuitive way. With it, you can track your money, understand your spending habits, and work towards your financial goals, such as saving, paying off debts, or investing.
-- English version: [Click here](READMEpt-br.md)
-
+English version: [Click here](READMEpt-br.md)
+<hr>
 ### Features
 Minhaeiro offers a set of essential features for your financial management:
 
