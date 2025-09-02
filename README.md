@@ -5,7 +5,7 @@ Brazilian Portuguese version: [Click here](READMEpt-br.md)
 
 ### Prerequisites
 - Install [Python](https://www.python.org/downloads/)
-- Essentially to have VSCODE
+- Crucial to have VSCODE
 
 ### Installation
 1. Clone the repository:
