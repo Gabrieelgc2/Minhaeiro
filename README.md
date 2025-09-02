@@ -2,6 +2,15 @@
 Minhaeiro is a personal expense management application, developed to help young adults control their finances in a simple and intuitive way. With it, you can track your money, understand your spending habits, and work towards your financial goals, such as saving, paying off debts, or investing.
 
 Brazilian Portuguese version: [Click here](READMEpt-br.md)
+
+Prerequisites:
+1. Install [Python](https://www.python.org/downloads/)
+2. Essentially to have VSCODE
+3. git clone https://github.com/Gabrieelgc2/Minhaeiro.git
+4. cd Minhaeiro
+5. pip install prettytable
+6. execute the command "minhaeiro.py"
+
 <hr>
 
 ### Features
