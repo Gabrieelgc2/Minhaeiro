@@ -3,13 +3,19 @@ Minhaeiro is a personal expense management application, developed to help young 
 
 Brazilian Portuguese version: [Click here](READMEpt-br.md)
 
-Prerequisites:
-1. Install [Python](https://www.python.org/downloads/)
-2. Essentially to have VSCODE
-3. git clone https://github.com/Gabrieelgc2/Minhaeiro.git
-4. cd Minhaeiro
-5. pip install prettytable
-6. execute the command "minhaeiro.py"
+### Prerequisites
+- Install [Python](https://www.python.org/downloads/)
+- Essentially to have VSCODE
+
+### Installation
+1. Clone the repository:
+   > git clone https://github.com/Gabrieelgc2/Minhaeiro.git
+2. Acessing the directory:
+   > cd Minhaeiro
+3. Installing a library:
+   > pip install prettytable
+4. Running the project:
+   > execute the command "minhaeiro.py"
 
 <hr>
 
