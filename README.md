@@ -16,7 +16,7 @@ Brazilian Portuguese version: [Click here](READMEpt-br.md)
 3. Installing a library:
    > pip install prettytable
 4. Running the project:
-   > execute the command "minhaeiro.py"
+   > execute the command "python minhaeiro.py"
 
 <hr>
 
