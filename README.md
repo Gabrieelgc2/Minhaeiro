@@ -28,7 +28,7 @@ Minhaeiro offers a set of crucial features for your financial management:
 
 * **✅ Revenue and Expense Tracking:** Record your earnings and spending in a categorized way for a clear view of your cash flow.
 * **🏷️ Smart Categorization:** Classify revenues and expenses (e.g., housing, food, transportation, salary) to understand exactly where your money is going.
-* **📈 Reports and Graphs:** View detailed reports that compare spending and revenue categories, showing your financial performance.
+* **📈 Reports:** View detailed reports that compare spending and revenue categories, showing your financial performance.
 * **🔄 Complete CRUD:** Create, read, update, and delete your financial data (revenues, expenses) at any time.
 * **👥 User Management:** Create and delete users, making the application ideal for use on different devices or for managing multiple accounts.
 
