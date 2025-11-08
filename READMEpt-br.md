@@ -28,7 +28,7 @@ Minhaeiro oferece um conjunto de recursos cruciais para sua gestão financeira:
 
 * **✅ Rastreamento de Receitas e Despesas:** Registre seus ganhos e gastos de forma categorizada para uma visão clara do seu fluxo de caixa.
 * **🏷️ Categorização Inteligente:** Classifique receitas e despesas (ex: moradia, alimentação, transporte, salário) para entender exatamente para onde seu dinheiro está indo.
-* **📈 Relatórios e Gráficos:** Visualize relatórios detalhados que comparam categorias de gastos e receitas, mostrando sua performance financeira.
+* **📈 Relatórios:** Visualize relatórios detalhados que comparam categorias de gastos e receitas, mostrando sua performance financeira.
 * **🔄 CRUD Completo:** Crie, leia, atualize e delete seus dados financeiros (receitas, despesas) a qualquer momento.
 * **👥 Gerenciamento de Usuários:** Crie e exclua usuários, tornando o aplicativo ideal para uso em diferentes dispositivos ou para gerenciar múltiplas contas.
 
