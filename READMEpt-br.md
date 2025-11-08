@@ -9,7 +9,7 @@
 * **Trabalhar em direção aos seus objetivos financeiros** (como poupar, pagar dívidas ou investir).
 
 <p align="center">
-    <a href="READMEpt-br.md">🇧🇷 Versão em Português (Brasil)</a>
+    <a href="README.md">🇧🇷 Versão em Inglês (US)</a>
 </p>
 
 ---
